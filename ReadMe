@@ -1,0 +1,10 @@
+Java 调用R：
+
+1) 直接运行test.App即可；
+2）需要先在hostname对应的rScript建立对应的脚本；
+
+
+Java调用Python：
+1）直接运行Python命令；
+2）直接运行本地Python脚本；
+3）调用远程Python脚本；
